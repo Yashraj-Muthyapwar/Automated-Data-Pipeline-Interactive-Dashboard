@@ -1,4 +1,4 @@
-<h1 align="center">Automated Data Pipeline & Interactive Dashboard</h1>
+<h1 align="center">Scalable ETL Pipeline & Data Quality Framework</h1>
 
 <p align="center"><i>
 Ingest data from multiple inputs (API, web scraper, CSV), clean and unify it with Pandas, load to SQLite, and explore insights in a sleek Streamlit app. Containerized with Docker and schedulable via Airflow.
